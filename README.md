@@ -10,4 +10,6 @@ This code is a companion for the tutorial available on my blog, which is divided
 * Should I go stateless?
 * Reference material
 
+
+https://www.codesandnotes.be/2017/10/02/from-stateful-to-stateless-restful-security-using-spring-and-jwts-part-2-session-based-authentication/
 Enjoy!
